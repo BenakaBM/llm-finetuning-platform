@@ -1,0 +1,4 @@
+# Install in addition to requirements.txt when a CUDA GPU is available.
+# bitsandbytes provides 4-bit/8-bit quantization needed for QLoRA and does
+# not install usefully on CPU-only machines, so it is kept separate.
+bitsandbytes==0.43.3

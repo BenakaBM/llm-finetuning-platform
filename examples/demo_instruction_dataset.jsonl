@@ -1,0 +1,30 @@
+{"instruction": "What is the capital of France?", "input": "", "output": "The capital of France is Paris."}
+{"instruction": "Translate 'good morning' to Spanish.", "input": "", "output": "Buenos dias."}
+{"instruction": "Summarize the purpose of a for loop.", "input": "", "output": "A for loop repeats a block of code a specific number of times."}
+{"instruction": "What is 12 multiplied by 8?", "input": "", "output": "12 multiplied by 8 is 96."}
+{"instruction": "Explain what an API is.", "input": "", "output": "An API is a set of rules that lets different software programs communicate with each other."}
+{"instruction": "Name the largest planet in the solar system.", "input": "", "output": "The largest planet in the solar system is Jupiter."}
+{"instruction": "Convert 10 kilometers to miles.", "input": "", "output": "10 kilometers is approximately 6.2 miles."}
+{"instruction": "What does HTTP stand for?", "input": "", "output": "HTTP stands for Hypertext Transfer Protocol."}
+{"instruction": "Give a synonym for 'happy'.", "input": "", "output": "A synonym for happy is joyful."}
+{"instruction": "What is the boiling point of water at sea level in Celsius?", "input": "", "output": "The boiling point of water at sea level is 100 degrees Celsius."}
+{"instruction": "Explain the difference between a list and a tuple in Python.", "input": "", "output": "A list is mutable and can be changed after creation, while a tuple is immutable and cannot be changed."}
+{"instruction": "What is the chemical symbol for gold?", "input": "", "output": "The chemical symbol for gold is Au."}
+{"instruction": "Rewrite this sentence in passive voice.", "input": "The cat chased the mouse.", "output": "The mouse was chased by the cat."}
+{"instruction": "What year did World War II end?", "input": "", "output": "World War II ended in 1945."}
+{"instruction": "Define the term 'algorithm'.", "input": "", "output": "An algorithm is a step-by-step procedure for solving a problem or completing a task."}
+{"instruction": "What is the square root of 144?", "input": "", "output": "The square root of 144 is 12."}
+{"instruction": "Name three primary colors.", "input": "", "output": "The three primary colors are red, blue, and yellow."}
+{"instruction": "What is the currency used in Japan?", "input": "", "output": "The currency used in Japan is the yen."}
+{"instruction": "Explain what photosynthesis is.", "input": "", "output": "Photosynthesis is the process by which plants use sunlight to convert water and carbon dioxide into energy and oxygen."}
+{"instruction": "What is the past tense of 'go'?", "input": "", "output": "The past tense of 'go' is 'went'."}
+{"instruction": "How many continents are there on Earth?", "input": "", "output": "There are seven continents on Earth."}
+{"instruction": "What is the freezing point of water in Fahrenheit?", "input": "", "output": "The freezing point of water is 32 degrees Fahrenheit."}
+{"instruction": "Name the author of 'Romeo and Juliet'.", "input": "", "output": "Romeo and Juliet was written by William Shakespeare."}
+{"instruction": "What does CPU stand for?", "input": "", "output": "CPU stands for Central Processing Unit."}
+{"instruction": "Convert 5 feet to inches.", "input": "", "output": "5 feet is equal to 60 inches."}
+{"instruction": "What is the smallest prime number?", "input": "", "output": "The smallest prime number is 2."}
+{"instruction": "Name the process by which water changes from liquid to gas.", "input": "", "output": "This process is called evaporation."}
+{"instruction": "What language is primarily spoken in Brazil?", "input": "", "output": "The primary language spoken in Brazil is Portuguese."}
+{"instruction": "What is the main function of red blood cells?", "input": "", "output": "The main function of red blood cells is to carry oxygen throughout the body."}
+{"instruction": "How many sides does a hexagon have?", "input": "", "output": "A hexagon has six sides."}
